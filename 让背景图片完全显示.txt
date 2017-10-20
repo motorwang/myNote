@@ -1,0 +1,7 @@
+让背景图片完全显示:
+使用css3的属性:
+background-size: (length / 百分比 / cover / contain);
+length: 设置背景图片的固定的宽高. 
+百分比: 使用父元素的百分比. length和百分比只有一个参数,则另一个是auto
+conver: 使图片扩展的足够大,占满整个盒子,图像的有些部分可能无法显示.
+contain: 使背景图片充满整个盒子.
