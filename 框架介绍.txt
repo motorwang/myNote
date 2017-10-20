@@ -1,4 +1,4 @@
-1、angular  谷歌的
-2、vue		尤雨溪
-3、react	Facebook
+1、angular  谷歌出的框架
+2、vue		作者是尤雨溪
+3、react	Facebook出的
 ECharts		百度的
